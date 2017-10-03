@@ -1,0 +1,14 @@
+button {
+    background-color: lightgreen;
+    display: block;
+}
+
+.square {
+        width: 10em;
+        height: 10em;
+        margin: 1em;
+        background-color: lightskyblue;
+        float: left;
+        text-align: center;
+        margin:10px;
+}
